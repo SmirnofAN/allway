@@ -91,8 +91,6 @@ http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=636
 http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=958
 #EXTINF:0  group-title="Основные" tvg-id="6051 tvg-logo="http://epg.one/img/6051.png, CineMan Ментовские войны
 http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=637
-#EXTINF:0  group-title="Основные" tvg-id="7175 tvg-logo="http://epg.one/img/7175.png, KLI Fantasy HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=926
 
 # Кино
 #EXTINF:0  group-title="Кино" tvg-id="542 tvg-logo="http://epg.one/img/542.png, Кинохит HD
@@ -2155,32 +2153,6 @@ http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1867
 http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1258
 #EXTINF:0  group-title="Остальные" tvg-id="1038 tvg-logo="http://epg.one/img/1038.png, KHL Prime HD 50
 http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1259
-
-# Не рабочие
-#EXTINF:0  group-title="Не рабочие" tvg-id="6236 tvg-logo="http://epg.one/img/6236.png, KLI Fantastic HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=916
-#EXTINF:0  group-title="Не рабочие" tvg-id="6243 tvg-logo="http://epg.one/img/6243.png, Kinoshka Thriller HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=934
-#EXTINF:0  group-title="Не рабочие" tvg-id="6244 tvg-logo="http://epg.one/img/6244.png, Kinoshka Kids HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1662
-#EXTINF:0  group-title="Не рабочие" tvg-id="6245 tvg-logo="http://epg.one/img/6245.png, Kinoshka Comedy HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=935
-#EXTINF:0  group-title="Не рабочие" tvg-id="6246 tvg-logo="http://epg.one/img/6246.png, Kinoshka Russian HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=936
-#EXTINF:0  group-title="Не рабочие" tvg-id="6247 tvg-logo="http://epg.one/img/6247.png, Kinoshka Mystic HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=937
-#EXTINF:0  group-title="Не рабочие" tvg-id="6330 tvg-logo="http://epg.one/img/6330.png, Kinoshka Premiere HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=938
-#EXTINF:0  group-title="Не рабочие" tvg-id="6331 tvg-logo="http://epg.one/img/6331.png, Kinoshka Action HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=939
-#EXTINF:0  group-title="Не рабочие" tvg-id="6400 tvg-logo="http://epg.one/img/6400.png, Kinoshka Drama HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=940
-#EXTINF:0  group-title="Не рабочие" tvg-id="8767 tvg-logo="http://epg.one/img/8767.png, Kinoshka Ukraine HD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1028
-#EXTINF:0  group-title="Не рабочие" tvg-id="8937 tvg-logo="http://epg.one/img/8937.png, Liberty Мульт UKR FHD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1033
-#EXTINF:0  group-title="Не рабочие" tvg-id="8938 tvg-logo="http://epg.one/img/8938.png, Liberty Кино UKR FHD
-http://allway.space/iptv/users/.TESTUSER_smirnof1978/?channel=1034
 
 # Эротика
 #EXTINF:0  group-title="Эротика" tvg-id="7714 tvg-logo="http://epg.one/img/7714.png, VF Граиндхаус
