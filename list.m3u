@@ -63,10 +63,6 @@ http://allway.space/iptv/users/smirnof1978/1058.m3u8
 http://allway.space/iptv/users/smirnof1978/686.m3u8
 #EXTINF:0  group-title="Основные" tvg-id="6856 tvg-logo="http://epg.one/img/6856.png, Liberty Фантастика FHD
 http://allway.space/iptv/users/smirnof1978/888.m3u8
-#EXTINF:0  group-title="Основные" tvg-id="4780 tvg-logo="http://epg.one/img/4780.png, StrahTV Фантастика HD
-http://allway.space/iptv/users/smirnof1978/686.m3u8
-#EXTINF:0  group-title="Основные" tvg-id="6856 tvg-logo="http://epg.one/img/6856.png, Liberty Фантастика FHD
-http://allway.space/iptv/users/smirnof1978/888.m3u8
 #EXTINF:0  group-title="Основные" tvg-id="5424 tvg-logo="http://epg.one/img/5424.png, Dosug TV Fantastic HD
 http://allway.space/iptv/users/smirnof1978/849.m3u8
 #EXTINF:0  group-title="Основные" tvg-id="4596 tvg-logo="http://epg.one/img/4596.png, VF Fantasy
@@ -299,8 +295,6 @@ http://allway.space/iptv/users/smirnof1978/3799.m3u8
 # Советские и старые фильмы
 #EXTINF:0  group-title="Советские и старые фильмы" tvg-id="3357 tvg-logo="http://epg.one/img/3357.png, Мосфильм. Золотая коллекция HD
 http://allway.space/iptv/users/smirnof1978/595.m3u8
-#EXTINF:0  group-title="Советские и старые фильмы" tvg-id="6256 tvg-logo="http://epg.one/img/6256.png, Tviksel Кино 1 HD
-http://allway.space/iptv/users/smirnof1978/950.m3u8
 #EXTINF:0  group-title="Советские и старые фильмы" tvg-id="6155 tvg-logo="http://epg.one/img/6155.png, VF Эльдар Рязанов
 http://allway.space/iptv/users/smirnof1978/802.m3u8
 #EXTINF:0  group-title="Советские и старые фильмы" tvg-id="7158 tvg-logo="http://epg.one/img/7158.png, Yosso TV Советские Фильмы 4K
@@ -373,8 +367,6 @@ http://allway.space/iptv/users/smirnof1978/30.m3u8
 http://allway.space/iptv/users/smirnof1978/2023.m3u8
 #EXTINF:0  group-title="Общие" tvg-id="1003 tvg-logo="http://epg.one/img/2765.png, Пятница! HD
 http://allway.space/iptv/users/smirnof1978/70.m3u8
-#EXTINF:0  group-title="Общие" tvg-id="1598 tvg-logo="http://epg.one/img/1598.png, Че!
-http://allway.space/iptv/users/smirnof1978/64.m3u8
 #EXTINF:0  group-title="Общие" tvg-id="304 tvg-logo="http://epg.one/img/304.png, Домашний HD
 http://allway.space/iptv/users/smirnof1978/125.m3u8
 #EXTINF:0  group-title="Общие" tvg-id="353 tvg-logo="http://epg.one/img/1767.png, ТНТ HD
@@ -555,6 +547,10 @@ http://allway.space/iptv/users/smirnof1978/1512.m3u8
 http://allway.space/iptv/users/smirnof1978/1394.m3u8
 #EXTINF:0  group-title="Музыка" tvg-id="2235 tvg-logo="http://epg.one/img/2235.png, MTV 90s
 http://allway.space/iptv/users/smirnof1978/1439.m3u8
+#EXTINF:0  group-title="Музыка" tvg-id="6267 tvg-logo="http://epg.one/img/6267.png, Tviksel Музыка 2 HD
+http://allway.space/iptv/users/smirnof1978/1515.m3u8
+#EXTINF:0  group-title="Музыка" tvg-id="6268 tvg-logo="http://epg.one/img/6268.png, Tviksel Музыка 2 International
+http://allway.space/iptv/users/smirnof1978/1517.m3u8
 
 # Остальные
 #EXTINF:0  group-title="Остальные" tvg-id="2732 tvg-logo="http://epg.one/img/2732.png, Премиальное HD
@@ -1009,8 +1005,6 @@ http://allway.space/iptv/users/smirnof1978/1423.m3u8
 http://allway.space/iptv/users/smirnof1978/489.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2242 tvg-logo="http://epg.one/img/2242.png, World Fashion Channel
 http://allway.space/iptv/users/smirnof1978/1808.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2443 tvg-logo="http://epg.one/img/2443.png, Драйв
-http://allway.space/iptv/users/smirnof1978/1230.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2444 tvg-logo="http://epg.one/img/2444.png, Мужской
 http://allway.space/iptv/users/smirnof1978/1809.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2760 tvg-logo="http://epg.one/img/2760.png, Анекдот ТВ
@@ -1047,8 +1041,6 @@ http://allway.space/iptv/users/smirnof1978/85.m3u8
 http://allway.space/iptv/users/smirnof1978/1811.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="1000 tvg-logo="http://epg.one/img/1000.png, ОТР
 http://allway.space/iptv/users/smirnof1978/55.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="113 tvg-logo="http://epg.one/img/113.png, ЖИВИ!
-http://allway.space/iptv/users/smirnof1978/1231.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="1753 tvg-logo="http://epg.one/img/1753.png, НТВ Право
 http://allway.space/iptv/users/smirnof1978/1813.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="663 tvg-logo="http://epg.one/img/663.png, Сарафан
@@ -1169,8 +1161,6 @@ http://allway.space/iptv/users/smirnof1978/1935.m3u8
 http://allway.space/iptv/users/smirnof1978/89.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2495 tvg-logo="http://epg.one/img/2495.png, Живая природа HD
 http://allway.space/iptv/users/smirnof1978/1756.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2497 tvg-logo="http://epg.one/img/2497.png, Russian Extreme HD
-http://allway.space/iptv/users/smirnof1978/1218.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2498 tvg-logo="http://epg.one/img/2498.png, В мире животных HD
 http://allway.space/iptv/users/smirnof1978/1757.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="675 tvg-logo="http://epg.one/img/675.png, Моя Планета HD
@@ -1221,8 +1211,6 @@ http://allway.space/iptv/users/smirnof1978/414.m3u8
 http://allway.space/iptv/users/smirnof1978/415.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="153 tvg-logo="http://epg.one/img/153.png, Авто Плюс HD
 http://allway.space/iptv/users/smirnof1978/1826.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2530 tvg-logo="http://epg.one/img/2530.png, Старт HD
-http://allway.space/iptv/users/smirnof1978/1232.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="7315 tvg-logo="http://epg.one/img/7315.png, Сапфир HD
 http://allway.space/iptv/users/smirnof1978/506.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2377 tvg-logo="http://epg.one/img/2377.png, HGTV HD
@@ -1483,8 +1471,6 @@ http://allway.space/iptv/users/smirnof1978/402.m3u8
 http://allway.space/iptv/users/smirnof1978/1732.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2801 tvg-logo="http://epg.one/img/2801.png, Love Nature 4K
 http://allway.space/iptv/users/smirnof1978/1735.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2803 tvg-logo="http://epg.one/img/2803.png, Russian Extreme UHD
-http://allway.space/iptv/users/smirnof1978/1217.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2804 tvg-logo="http://epg.one/img/2804.png, Кино UHD 4K
 http://allway.space/iptv/users/smirnof1978/403.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="4804 tvg-logo="http://epg.one/img/4804.png, VF Кино 4K
@@ -1733,8 +1719,6 @@ http://allway.space/iptv/users/smirnof1978/418.m3u8
 http://allway.space/iptv/users/smirnof1978/1754.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2022 tvg-logo="http://epg.one/img/2022.png, Bridge Deluxe HD
 http://allway.space/iptv/users/smirnof1978/1425.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2362 tvg-logo="http://epg.one/img/2362.png, Fast & Fun Box HD
-http://allway.space/iptv/users/smirnof1978/1222.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2356 tvg-logo="http://epg.one/img/2356.png, History 2 FHD
 http://allway.space/iptv/users/smirnof1978/1743.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2383 tvg-logo="http://epg.one/img/2383.png, Fashion & Lifestyle HD
@@ -1853,88 +1837,8 @@ http://allway.space/iptv/users/smirnof1978/464.m3u8
 http://allway.space/iptv/users/smirnof1978/475.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2174 tvg-logo="http://epg.one/img/2174.png, Дорама
 http://allway.space/iptv/users/smirnof1978/481.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4737 tvg-logo="http://epg.one/img/4737.png, BCU Premiere 2 HD
-http://allway.space/iptv/users/smirnof1978/642.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4738 tvg-logo="http://epg.one/img/4738.png, BCU Premiere 3 HD
-http://allway.space/iptv/users/smirnof1978/643.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="4774 tvg-logo="http://epg.one/img/4774.png, StrahTV Весёлая Карусель HD
 http://allway.space/iptv/users/smirnof1978/1640.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4775 tvg-logo="http://epg.one/img/4775.png, StrahTV Ералаш HD
-http://allway.space/iptv/users/smirnof1978/1641.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4776 tvg-logo="http://epg.one/img/4776.png, StrahTV VHS HD
-http://allway.space/iptv/users/smirnof1978/678.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4777 tvg-logo="http://epg.one/img/4777.png, StrahTV Хит HD
-http://allway.space/iptv/users/smirnof1978/683.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4778 tvg-logo="http://epg.one/img/4778.png, StrahTV Космо HD
-http://allway.space/iptv/users/smirnof1978/684.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4779 tvg-logo="http://epg.one/img/4779.png, StrahTV Страх HD
-http://allway.space/iptv/users/smirnof1978/685.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4781 tvg-logo="http://epg.one/img/4781.png, StrahTV Юнит HD
-http://allway.space/iptv/users/smirnof1978/687.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4719 tvg-logo="http://epg.one/img/4719.png, PG Premiere HD
-http://allway.space/iptv/users/smirnof1978/688.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4720 tvg-logo="http://epg.one/img/4720.png, PG Premium HD
-http://allway.space/iptv/users/smirnof1978/689.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4721 tvg-logo="http://epg.one/img/4721.png, PG РуКино HD
-http://allway.space/iptv/users/smirnof1978/690.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4722 tvg-logo="http://epg.one/img/4722.png, PG Victory HD
-http://allway.space/iptv/users/smirnof1978/691.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4723 tvg-logo="http://epg.one/img/4723.png, PG Paradox HD
-http://allway.space/iptv/users/smirnof1978/692.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4724 tvg-logo="http://epg.one/img/4724.png, PG Thriller HD
-http://allway.space/iptv/users/smirnof1978/693.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4725 tvg-logo="http://epg.one/img/4725.png, PG Paradise HD
-http://allway.space/iptv/users/smirnof1978/694.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="4726 tvg-logo="http://epg.one/img/4726.png, PG Serial HD
-http://allway.space/iptv/users/smirnof1978/695.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="5898 tvg-logo="http://epg.one/img/5898.png, Z!Serial HD
-http://allway.space/iptv/users/smirnof1978/823.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="5899 tvg-logo="http://epg.one/img/5899.png, Z!Sitcom HD
-http://allway.space/iptv/users/smirnof1978/824.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="5900 tvg-logo="http://epg.one/img/5900.png, Z!Smile HD
-http://allway.space/iptv/users/smirnof1978/825.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2277 tvg-logo="http://epg.one/img/2277.png, RU TV HD
-http://allway.space/iptv/users/smirnof1978/1542.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="6643 tvg-logo="http://epg.one/img/6643.png, Plan_B HD
-http://allway.space/iptv/users/smirnof1978/1543.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="415 tvg-logo="http://epg.one/img/415.png, Точка.РФ HD
-http://allway.space/iptv/users/smirnof1978/1891.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7179 tvg-logo="http://epg.one/img/7179.png, KLI Мультики HD
-http://allway.space/iptv/users/smirnof1978/1667.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7172 tvg-logo="http://epg.one/img/7172.png, KLI Action HD
-http://allway.space/iptv/users/smirnof1978/924.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7174 tvg-logo="http://epg.one/img/7174.png, KLI Drama HD
-http://allway.space/iptv/users/smirnof1978/925.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7901 tvg-logo="http://epg.one/img/7901.png, DetectiveJam HD
-http://allway.space/iptv/users/smirnof1978/1003.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="9301 tvg-logo="http://epg.one/img/9301.png, BOX History 4K HDR
-http://allway.space/iptv/users/smirnof1978/1671.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="9302 tvg-logo="http://epg.one/img/9302.png, BCU Kinozakaz Premiere 4K
-http://allway.space/iptv/users/smirnof1978/354.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="9303 tvg-logo="http://epg.one/img/9303.png, BOX Kosmo 4K HDR
-http://allway.space/iptv/users/smirnof1978/1672.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7617 tvg-logo="http://epg.one/img/7617.png, TravelXP 4K HDR
-http://allway.space/iptv/users/smirnof1978/1692.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7621 tvg-logo="http://epg.one/img/7621.png, Museum 4K
-http://allway.space/iptv/users/smirnof1978/1690.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="6695 tvg-logo="http://epg.one/img/6695.png, Quadro 4K
-http://allway.space/iptv/users/smirnof1978/1970.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2746 tvg-logo="http://epg.one/img/2746.png, Наша Сибирь HD
-http://allway.space/iptv/users/smirnof1978/1736.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2800 tvg-logo="http://epg.one/img/2800.png, Инсайт ТВ UHD
-http://allway.space/iptv/users/smirnof1978/1734.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2802 tvg-logo="http://epg.one/img/2802.png, MyZen 4K
-http://allway.space/iptv/users/smirnof1978/1931.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="6707 tvg-logo="http://epg.one/img/6707.png, BOX Music 4K HDR
-http://allway.space/iptv/users/smirnof1978/1546.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="6855 tvg-logo="http://epg.one/img/6855.png, Liberty Нетфликс 4K
-http://allway.space/iptv/users/smirnof1978/887.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7178 tvg-logo="http://epg.one/img/7178.png, KLI Kids HD
-http://allway.space/iptv/users/smirnof1978/1666.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7177 tvg-logo="http://epg.one/img/7177.png, KLI Concert HD
-http://allway.space/iptv/users/smirnof1978/1548.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="7229 tvg-logo="http://epg.one/img/7229.png, KLI Horror HD
-http://allway.space/iptv/users/smirnof1978/923.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="743 tvg-logo="http://epg.one/img/743.png, РБК HD 50
 http://allway.space/iptv/users/smirnof1978/300.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2265 tvg-logo="http://epg.one/img/2265.png, 360
@@ -1949,33 +1853,17 @@ http://allway.space/iptv/users/smirnof1978/1957.m3u8
 http://allway.space/iptv/users/smirnof1978/1871.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="5691 tvg-logo="http://epg.one/img/5691.png, ТВЦ International
 http://allway.space/iptv/users/smirnof1978/161.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="698 tvg-logo="http://epg.one/img/698.png, ТВ
-http://allway.space/iptv/users/smirnof1978/197.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="223 tvg-logo="http://epg.one/img/223.png, Nat Geo Wild HD
 http://allway.space/iptv/users/smirnof1978/1799.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="711 tvg-logo="http://epg.one/img/984.png, Россия 1 HD 50
 http://allway.space/iptv/users/smirnof1978/144.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="613 tvg-logo="http://epg.one/img/613.png, Travel Channel HD
 http://allway.space/iptv/users/smirnof1978/1740.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2050 tvg-logo="http://epg.one/img/2050.png, Матч! Игра HD 50
-http://allway.space/iptv/users/smirnof1978/1253.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2044 tvg-logo="http://epg.one/img/2044.png, Матч! Футбол 1 HD 50
-http://allway.space/iptv/users/smirnof1978/1254.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2005 tvg-logo="http://epg.one/img/2005.png, Матч! Футбол 3 HD 50
-http://allway.space/iptv/users/smirnof1978/1255.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="2732 tvg-logo="http://epg.one/img/2732.png, Премиальное HD 50
 http://allway.space/iptv/users/smirnof1978/620.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2051 tvg-logo="http://epg.one/img/2051.png, Матч ТВ HD 50
-http://allway.space/iptv/users/smirnof1978/1256.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="2250 tvg-logo="http://epg.one/img/2250.png, Матч! Премьер HD 50
-http://allway.space/iptv/users/smirnof1978/1257.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="353 tvg-logo="http://epg.one/img/1767.png, ТНТ HD 50
 http://allway.space/iptv/users/smirnof1978/1944.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="7635 tvg-logo="http://epg.one/img/7635.png, FoodTime HD 50
 http://allway.space/iptv/users/smirnof1978/1867.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="1042 tvg-logo="http://epg.one/img/1042.png, Матч! Футбол 2 HD 50
-http://allway.space/iptv/users/smirnof1978/1258.m3u8
-#EXTINF:0  group-title="Остальные" tvg-id="1038 tvg-logo="http://epg.one/img/1038.png, KHL Prime HD 50
-http://allway.space/iptv/users/smirnof1978/1259.m3u8
 #EXTINF:0  group-title="Остальные" tvg-id="7270 tvg-logo="http://epg.one/img/7270.png, VF Владимир Высоцкий
 http://allway.space/iptv/users/smirnof1978/382.m3u8
